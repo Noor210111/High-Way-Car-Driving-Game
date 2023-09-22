@@ -1,0 +1,15 @@
+﻿Build started 9/22/2023 12:29:29 PM.
+     1>Project "F:\GithubUpload\project 1 2\210111\High-Way Car Driving\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>f:\githubupload\project 1 2\210111\high-way car driving\project2\imain.cpp(1256): warning C4551: function call missing argument list
+     1>f:\githubupload\project 1 2\210111\high-way car driving\project2\imain.cpp(1269): warning C4551: function call missing argument list
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\GithubUpload\project 1 2\210111\High-Way Car Driving\Debug\Project2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\GithubUpload\project 1 2\210111\High-Way Car Driving\Debug\Project2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\GithubUpload\project 1 2\210111\High-Way Car Driving\Debug\Project2.lib" /MACHINE:X86 Debug\iMain.obj
+         Project2.vcxproj -> F:\GithubUpload\project 1 2\210111\High-Way Car Driving\Debug\Project2.exe
+     1>Done Building Project "F:\GithubUpload\project 1 2\210111\High-Way Car Driving\Project2\Project2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.42
